@@ -98,7 +98,7 @@ Install all dependencies as stated above, read individual technology documentati
 Built with ❤️ by the maintainers
 
 [//]: #
-[linkedin-Himanshu-Kumar-Sahu]: https://www.linkedin.com/in/ayushsahu77/
-[twitter-Himanshu-Kumar-Sahu]: https://twitter.com/Ayush_7477/
+[linkedin-Himanshu-Kumar-Sahu]: https://www.linkedin.com/in/himanshuks0110/
+[twitter-Himanshu-Kumar-Sahu]: https://twitter.com/HimanshuKS10/
 
 
